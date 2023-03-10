@@ -40,3 +40,20 @@ function helloEverybody () {
 ```
 
 ---
+
+### Education and Courses:
+
+- BSUIR(FCSN) 2018-2022;
+- [Udemy](https://www.udemy.com/) course of WEB-development ([completed](https://udemy-certificate.s3.amazonaws.com/image/UC-f28e51df-faa8-44ab-b6da-31a56921dd9d.jpg?v=1670877270000));<br>
+- [Udemy](https://www.udemy.com/) course of React(in progress);<br>
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress).
+
+---
+
+### Languages:
+
+- English (B1);
+- Belarussian (Native);
+- Russian (Native).
+
+
